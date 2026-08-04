@@ -2,7 +2,7 @@
 
 ## Overview
 
-This interactive lab simulated a digital forensics investigation where I was required to rebuild a desktop computer from a collection of hardware components. The objective was to identify the correct components, place them in their appropriate locations within the computer, and recover the evidence file.
+This interactive lab introduced the main hardware components of a desktop computer through a digital forensics scenario. The objective was to identify the correct components, assemble the computer correctly, and recover the evidence file.
 
 ---
 
@@ -16,32 +16,31 @@ My task was to identify the seven genuine desktop components, ignore the unrelat
 
 ## Learning Objectives
 
-- Identify the essential hardware components of a desktop computer.
-- Understand the function of each component.
-- Distinguish between internal desktop components and unrelated hardware.
-- Reinforce the physical layout of a computer system.
+- Understanding the different types of storage: solid-state storage and magnetic storage
+- Knowing different types of components in a computer system and their purpose in each of them
+- Understanding the role of each core hardware component within a desktop computer.
 
 ---
 
 ## Key Concepts
 
 ### CPU
-Processes instructions and coordinates the operation of the computer.
+Processes all instructions at a rate of billions per second in Gigahertz.
 
 ### RAM
-Temporarily stores data currently being used by the operating system and applications.
+Temporarily stores data and instructions that are currently being used by the operating system, meaning that it is volatile.
 
 ### Power Supply Unit (PSU)
 Converts mains electricity into voltages suitable for computer hardware.
 
 ### Graphics Card (GPU)
-Processes graphics and produces visual output.
+Processes graphics and produces visual output using mathematical operations.
 
 ### Storage
 Understood the differences between SSDs and HDDs and their role in permanent data storage.
 
 ### Network Adapter
-Provides network connectivity for communication with other devices and the internet.
+Provides network connectivity for communication with other devices and the internet with a unique hardware address using a MAC address.
 
 ---
 
@@ -57,7 +56,7 @@ Provides network connectivity for communication with other devices and the inter
 
 ## Challenges Encountered
 
-Initially, I needed to carefully distinguish between desktop-specific components and hardware designed for laptops or external use. Reading each evidence tag carefully helped ensure the correct parts were selected.
+Initially, I found it confusing that both an SSD and HDD were available, as a computer can use both. However, the simulation only required seven specific components, so I had to identify which items the scenario expected rather than every component that could realistically be installed.
 
 ---
 
@@ -71,7 +70,7 @@ Initially, I needed to carefully distinguish between desktop-specific components
 
 ## Reflection
 
-Although I was already familiar with most computer components, this simulation reinforced my understanding of where each component belongs inside a desktop computer and why each part is necessary. The scenario also introduced a digital forensics context, demonstrating how hardware knowledge can support forensic investigations.
+Although I was already familiar with most computer components from learning them at GCSE, understanding computer hardware is important in cybersecurity because analysts and digital forensic investigators need to understand how physical components store, process, and transmit data when investigating incidents or securing systems.
 
 ---
 
