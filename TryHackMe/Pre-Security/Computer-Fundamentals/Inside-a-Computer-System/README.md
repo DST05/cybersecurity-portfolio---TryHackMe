@@ -76,4 +76,5 @@ Although I was already familiar with most computer components, this simulation r
 ---
 
 ## Screenshots
+<img width="1915" height="910" alt="image" src="https://github.com/user-attachments/assets/849349f7-84f2-4fa0-9a30-a81961b34716" />
 
