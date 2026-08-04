@@ -6,7 +6,7 @@ This module introduces the fundamental concepts of computers, including hardware
 
 ## Rooms Completed
 
-- Computer Components
+- Inside a Computer System
 
 ## Skills Developed
 
