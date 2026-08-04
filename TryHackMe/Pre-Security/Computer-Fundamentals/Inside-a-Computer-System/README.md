@@ -1,63 +1,81 @@
-# Inside a Computer System
+# Room: Inside a Computer System
 
 ## Overview
-
-What is this room about?
+Briefly explain what this room is about in your own words.
 
 ---
 
 ## Learning Objectives
-
-What should I understand after completing this room?
-
----
-
-## Notes
-
-### Topic 1
-
-Your explanation here.
-
-### Topic 2
-
-Your explanation here.
+What skills or concepts does this room aim to teach?
 
 ---
 
-## Key Terms
+## Key Concepts
+Summarise the important ideas you learned.
 
-CPU:
-
-RAM:
-
-Motherboard:
-
-Storage:
+### Example
+- CPU
+- RAM
+- Motherboard
+- Storage
+- BIOS
+- Operating System
 
 ---
 
-## Practical Tasks
+## Practical Activities
+Describe what you did (without giving answers).
 
-What activities did I complete?
+Example:
+- Identified hardware components.
+- Explored how the CPU interacts with RAM.
+- Completed the interactive demonstrations.
+
+---
+
+## Commands (if applicable)
+
+```bash
+ls
+pwd
+ipconfig
+```
+
+Include commands only if the room uses them.
 
 ---
 
 ## Screenshots
 
-(Add your own screenshots here)
+Add your own screenshots that demonstrate your work.
 
 ---
 
-## Questions and Answers
+## Challenges Encountered
 
-(Private notes only)
+What confused you?
+
+How did you solve it?
+
+---
+
+## Key Takeaways
+
+3–5 bullet points summarising the most important things you learned.
 
 ---
 
 ## Reflection
 
-What did I learn?
+Answer questions like:
 
-What was difficult?
+- What did I already know?
+- What was new?
+- How does this connect to cybersecurity?
+- What would I like to learn next?
 
-What can I improve?
+---
+
+## References (Optional)
+
+Useful resources you used to deepen your understanding.
