@@ -77,4 +77,3 @@ Although I was already familiar with most computer components, this simulation r
 
 ## Screenshots
 
-(Add your own screenshots from the simulation.)
