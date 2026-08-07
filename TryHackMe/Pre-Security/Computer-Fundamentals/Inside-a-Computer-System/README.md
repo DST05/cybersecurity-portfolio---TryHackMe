@@ -1,4 +1,4 @@
-# Room: Inside a Computer System
+# Inside a Computer System
 
 ## Overview
 
