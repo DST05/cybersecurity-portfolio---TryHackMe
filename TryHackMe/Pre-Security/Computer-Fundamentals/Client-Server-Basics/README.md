@@ -56,11 +56,10 @@ GET is an HTTP method used to request a resource from a server.
 
 Example:
 
-https://www.iamlearning.thm/contact
-
+https://google.com/cybersecurity
 - Scheme: `https`
-- Host: `www.iamlearning.thm`
-- Path: `/contact`
+- Host: `www.google.com`
+- Path: `/cybersecurity`
 
 ### HTTP Response
 
