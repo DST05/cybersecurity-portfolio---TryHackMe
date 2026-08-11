@@ -9,3 +9,6 @@
 |  | Client-Server Basics | ✅ Completed |
 |  | Virtualisation | ✅ Completed |
 |  | Cloud Computing Fundamentals | ✅ Completed |
+| Operating Systems Basics | Operating Systems Basics: Introduction | In progress |
+
+
