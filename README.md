@@ -28,7 +28,7 @@ TryHackMe is the property of **TryHackMe**, and this repository is not affiliate
 
 Where appropriate, screenshots and other supporting material are included only as evidence of my own learning and activity.
 
-If any content is identified as inappropriate for public sharing or conflicts with TryHackMe's policies, it should be brought to my attention so that I can review and remove or modify it where necessary, using my email address.
+If any content is identified as inappropriate for public sharing or conflicts with TryHackMe's policies, it should be brought to my attention so that I can review and remove or modify it where necessary, using my email address on the profile.
 
 ## 🔗 TryHackMe Profile
 
@@ -40,3 +40,5 @@ https://tryhackme.com/p/dseyetaiwo
 ## 📈 Learning Progress
 
 This repository will continue to be updated as I progress through the TryHackMe learning paths and develop my cybersecurity knowledge and practical skills.
+
+
