@@ -41,4 +41,9 @@ https://tryhackme.com/p/dseyetaiwo
 
 This repository will continue to be updated as I progress through the TryHackMe learning paths and develop my cybersecurity knowledge and practical skills.
 
+## Contact
+
+For professional enquiries or further information, please contact me using the email address provided on my main GitHub profile.
+
+
 
