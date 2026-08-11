@@ -66,9 +66,9 @@ My documentation focuses on:
 * Key takeaways
 * Personal reflection
 
-**Notion** is used for my detailed personal notes, while **GitHub** contains selected summaries and practical documentation suitable for a public portfolio.
+**Notion** is used for my detailed personal notes, while **GitHub** contains selected summaries and practical documentation suitable for these portfolios.
 
-TryHackMe answers, flags and solutions are not included in this repository.
+**TryHackMe** answers, flags and solutions are not included in this repository.
 
 
 
