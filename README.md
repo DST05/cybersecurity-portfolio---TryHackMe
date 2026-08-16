@@ -35,7 +35,7 @@ If any content is identified as inappropriate for public sharing or conflicts wi
 You can view my TryHackMe profile and track my progress here:
 
 **TryHackMe:**
-https://tryhackme.com/p/dseyetaiwo
+https://tryhackme.com/p/DST05
 
 ## 📈 Learning Progress
 
