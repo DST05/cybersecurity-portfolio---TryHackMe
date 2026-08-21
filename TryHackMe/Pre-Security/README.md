@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Pre-Security** learning path introduces the fundamental concepts and technologies that form the foundation of cybersecurity.
+The **Pre-Security** learning path introduces the fundamental concepts and technologies that form cybersecurity foundations.
 
 The course progresses from computer fundamentals through operating systems, software, networking and web technologies before introducing fundamental cybersecurity concepts.
 
@@ -45,8 +45,8 @@ Throughout this learning path, I will develop my understanding of:
 ### Module 3 — Operating Systems Basics
 
 * Operating Systems: Introduction — ✅
-* Windows Basics — 🔄
-* Linux CLI Basics — 🔄
+* Windows Basics — ✅
+* Linux CLI Basics — 🔄 (Documentation Upcoming)
 * Windows CLI Basics — 🔄
 * Operating System Security — ⬜
 
