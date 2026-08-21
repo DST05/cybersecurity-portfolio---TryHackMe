@@ -29,8 +29,10 @@ This room provided a practical introduction to the Windows operating system, foc
 - Examined Windows Defender Firewall settings
 
 ## Screenshots
-<img width="520" height="250" alt="image" src="https://github.com/user-attachments/assets/9458a2eb-6cae-4a7f-9933-4e7f4531f079" />
 
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/ddd3d808-914d-4431-b519-662b2a86e871" />
+
+<img width="520" height="250" alt="image" src="https://github.com/user-attachments/assets/9458a2eb-6cae-4a7f-9933-4e7f4531f079" />
 
 <img width="1961" height="365" alt="image" src="https://github.com/user-attachments/assets/9e62f8c9-e2e7-4f14-b18a-c7f797d3c1a7" />
 
