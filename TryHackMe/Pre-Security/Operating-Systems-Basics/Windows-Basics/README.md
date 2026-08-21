@@ -54,6 +54,4 @@ None. This room was very straightforward for me, as I have used Windows extensiv
 
 Unlike the other rooms, this room was mainly a reinforcement activity for me rather than introducing significant new concepts. The practical activities provided a quick opportunity to reinforce where common system information and security tools are located.
 
-The room also reinforced that Linux is not the only operating system used in cybersecurity. Although Linux is widely used in many cybersecurity environments, Windows remains highly relevant due to its widespread use in organisations and its importance in system administration and security.
-
-The room also reinforced that Linux is not the only operating system used in cybersecurity. Although Linux is widely used in many cybersecurity environments, Windows remains highly relevant due to its widespread use in organisations and its importance in system administration and security.
+The room also reinforced that Linux is not the only operating system used in cybersecurity. Although Linux is widely used in many cybersecurity environments, Windows remains highly relevant due to its popularity in organisations and its importance in system administration and security.
