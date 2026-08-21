@@ -32,7 +32,7 @@ If any content is identified as inappropriate for public sharing or conflicts wi
 
 ## 🔗 TryHackMe Profile
 
-You can view my TryHackMe profile and track my progress here:
+You can view my TryHackMe profile to track my progress and view other rooms that are not included in the Pre-Security and Cyber Security 101 learning paths here:
 
 **TryHackMe:**
 https://tryhackme.com/p/DST05
