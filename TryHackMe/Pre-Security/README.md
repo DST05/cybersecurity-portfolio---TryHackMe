@@ -47,7 +47,7 @@ Throughout this learning path, I will develop my understanding of:
 * Operating Systems: Introduction — ✅
 * Windows Basics — ✅
 * Linux CLI Basics — ✅ 
-* Windows CLI Basics — ✅ (Documentation Upcoming)
+* Windows CLI Basics — ✅ 
 * Operating System Security — ✅ (Documentation Upcoming)
 
 ### Module 4 — Software Basics
