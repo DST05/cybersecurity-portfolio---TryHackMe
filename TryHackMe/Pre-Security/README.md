@@ -22,17 +22,17 @@ Throughout this learning path, I will develop my understanding of:
 
 ---
 
-## Course Structure & Progress
+## Course Structure & Progress - 61% Completed
 
 | Module                                  | Rooms                                                                | Status          |
 | --------------------------------------- | -------------------------------------------------------------------- | --------------- |
 | **Module 1 — Attacks and Defences**     | Offensive Security Intro, Defensive Security Intro, Careers in Cyber | ℹ️ Introduction |
 | **Module 2 — Computer Fundamentals**    | 5 rooms                                                              | ✅ Completed     |
-| **Module 3 — Operating Systems Basics** | 5 rooms                                                              | 🔄 In Progress  |
+| **Module 3 — Operating Systems Basics** | 5 rooms                                                              | ✅ Completed   |
 | **Module 4 — Software Basics**          | 5 rooms                                                              | 🔄 In Progress   |
-| **Module 5 — Network Fundamentals**     | 5 rooms                                                              | ⬜ Not Started   |
-| **Module 6 — How The Web Works**        | 4 rooms                                                              | ⬜ Not Started   |
-| **Module 7 — Attacks and Defenses**     | 4 rooms                                                              | ⬜ Not Started   |
+| **Module 5 — Network Fundamentals**     | 5 rooms                                                              | 🔄 In Progress   |
+| **Module 6 — How The Web Works**        | 4 rooms                                                              | ✅ Completed  |
+| **Module 7 — Attacks and Defences**     | 4 rooms                                                              | ⬜ Not Started   |
 
 ### Module 2 — Computer Fundamentals
 
@@ -48,14 +48,35 @@ Throughout this learning path, I will develop my understanding of:
 * Windows Basics — ✅
 * Linux CLI Basics — ✅ 
 * Windows CLI Basics — ✅ 
-* Operating System Security — ✅ (Documentation Upcoming)
+* Operating System Security — ✅ 
 
 ### Module 4 — Software Basics
-* Data Representation — 🔄
-* Data Encoding —  🔄 
+* Data Representation — ✅  (Documentation Upcoming)
+* Data Encoding —  ✅  (Documentation Upcoming)
 * Python: Simple Demo — 🔄 
 * JavaScript: Simple Demo — ⬜ Not Started 
-* Database SQL Basics — ⬜ Not Started 
+* Database SQL Basics — ⬜ Not Started
+
+
+### Module 5 — Network Fundamentals
+* What is Networking? — ✅ (Coming Soon) 
+* Intro to LAN — 🔄
+* OSI Model  — ⬜ Not Started
+* Packets & Frames — ⬜ Not Started
+* Extending your Network — ⬜ Not Started
+
+### Module 6 — How The Web Works (Coming Soon)
+* DNS in Detail — ✅ 
+* HTTP in Detail — ✅ 
+* How Websites Work — ✅ 
+* Putting it all together — ✅
+
+### Module 7 — Attacks and Defences
+* The CIA Triad — ⬜ Not Started
+* Cryptography Concepts — ⬜ Not Started
+* Become a Hacker — ⬜ Not Started
+* Become a Defender — ⬜ Not Started
+
 ---
 
 ## Documentation
