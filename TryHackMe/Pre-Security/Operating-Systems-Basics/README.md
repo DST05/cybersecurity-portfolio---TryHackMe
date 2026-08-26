@@ -6,7 +6,7 @@ This module introduced the fundamentals of operating systems and how they manage
 
 ## Rooms Completed
 
-- [**Operating Systems: Introduction**](./Operating-Systems-Introduction/README.md) 
+- [**Operating Systems Introduction**](./Operating-Systems-Introduction/README.md) 
 - [**Windows Basics**](./Windows-Basics/README.md) 
 - [**Linux CLI Basics**](./Linux-CLI-Basics/README.md) 
 - [**Windows CLI Basics**](./Windows-CLI-Basics/README.md)
