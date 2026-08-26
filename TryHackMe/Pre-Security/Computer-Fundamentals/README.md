@@ -6,27 +6,27 @@ This module introduces the fundamental concepts behind modern computer systems a
 
 ## Rooms Completed
 
-* Inside a Computer System
-* Computer Types
-* Client-Server Basics
-* Virtualisation Basics
-* Cloud Computing Fundamentals
+- [**Inside a Computer System**](./Inside-a-Computer-System/README.md)
+- [**Computer Types**](./Computer-Types/README.md)
+- [**Client-Server Basics**](./Client-Server-Basics/README.md)
+- [**Virtualisation Basics**](./Virtualisation-Basics/README.md)
+- [**Cloud Computing Fundamentals**](./Cloud-Computing-Fundamentals/README.md)
 
 ## Skills Developed
 
-* Understanding computer hardware and its components
-* Understanding different types of computer systems
-* Understanding the client-server model and basic network services
-* Understanding virtual machines, hypervisors and containers
-* Understanding the fundamentals of cloud computing
-* Understanding how modern computing infrastructure supports applications and services
+- Understanding computer hardware and its components
+- Understanding different types of computer systems
+- Understanding the client-server model and basic network services
+- Understanding virtual machines, hypervisors and containers
+- Understanding the fundamentals of cloud computing
+- Understanding how modern computing infrastructure supports applications and services
 
 ## Practical Experience
 
-* Completed interactive TryHackMe lab environments.
-* Analysed and configured virtual machines in simulated environments.
-* Investigated virtualisation and cloud infrastructure through practical activities.
-* Used browser developer tools to examine HTTP requests and responses.
+- Completed interactive TryHackMe lab environments.
+- Analysed and configured virtual machines in simulated environments.
+- Investigated virtualisation and cloud infrastructure through practical activities.
+- Used browser developer tools to examine HTTP requests and responses.
 
 ## Reflection
 
