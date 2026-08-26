@@ -16,7 +16,7 @@ This structure allows each room to be documented separately while keeping the ov
 
 This repository is primarily a personal learning and portfolio project. It documents my progress and helps me demonstrate the knowledge and practical skills I develop throughout my cybersecurity learning journey.
 
-My notes are written in my own words and focus on the concepts, activities and knowledge I have personally gained.
+My personal notes in Notion are written in my own words and then condensed into GitHub to focus on the main concepts, activities, and knowledge I have gained.
 
 ## ⚠️ Disclaimer
 
