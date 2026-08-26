@@ -27,14 +27,14 @@ Throughout this learning path, I will develop my understanding of:
 | Module                                  | Rooms                                                                | Status          |
 | --------------------------------------- | -------------------------------------------------------------------- | --------------- |
 | **Module 1 — Attacks and Defences**     | Offensive Security Intro, Defensive Security Intro, Careers in Cyber | ℹ️ Introduction |
-| **Module 2 — Computer Fundamentals**    | 5 rooms                                                              | ✅ Completed     |
-| **Module 3 — Operating Systems Basics** | 5 rooms                                                              | ✅ Completed   |
-| **Module 4 — Software Basics**          | 5 rooms                                                              | 🔄 In Progress   |
+| [**Module 2 — Computer Fundamentals**](./Computer-Fundamentals/) | 5 rooms | ✅ Completed |
+| [**Module 3 — Operating Systems Basics**](./Operating-Systems-Basics/) | 5 rooms | ✅ Completed |
+| [**Module 4 — Software Basics**](./Software-Basics/) | 5 rooms | 🔄 In Progress |
 | **Module 5 — Network Fundamentals**     | 5 rooms                                                              | 🔄 In Progress   |
 | **Module 6 — How The Web Works**        | 4 rooms                                                              | ✅ Completed  |
 | **Module 7 — Attacks and Defences**     | 4 rooms                                                              | ⬜ Not Started   |
 
-### Module 2 — Computer Fundamentals
+### [Module 2 — Computer Fundamentals](./Computer-Fundamentals/)
 
 * Inside a Computer System — ✅
 * Computer Types — ✅
@@ -42,7 +42,7 @@ Throughout this learning path, I will develop my understanding of:
 * Virtualisation Basics — ✅
 * Cloud Computing Fundamentals — ✅
 
-### Module 3 — Operating Systems Basics
+### [Module 3 — Operating Systems Basics](./Operating-Systems-Basics/)
 
 * Operating Systems: Introduction — ✅
 * Windows Basics — ✅
@@ -50,7 +50,8 @@ Throughout this learning path, I will develop my understanding of:
 * Windows CLI Basics — ✅ 
 * Operating System Security — ✅ 
 
-### Module 4 — Software Basics
+### [Module 4 — Software Basics](./Software-Basics/)
+
 * Data Representation — ✅  (Documentation Upcoming)
 * Data Encoding —  ✅  (Documentation Upcoming)
 * Python: Simple Demo — 🔄 
