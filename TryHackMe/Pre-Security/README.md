@@ -22,7 +22,7 @@ Throughout this learning path, I will develop my understanding of:
 
 ---
 
-## Course Structure & Progress - 78% Completed
+## Course Structure & Progress - 93% Completed
 
 | Module                                  | Rooms                                                                | Status          |
 | --------------------------------------- | -------------------------------------------------------------------- | --------------- |
@@ -59,11 +59,11 @@ Throughout this learning path, I will develop my understanding of:
 * Database SQL Basics — ✅ (Documentation Upcoming)
 
 
-### Module 5 — Network Fundamentals
-* What is Networking? — ✅ (Coming Soon) 
-* Intro to LAN — 🔄
-* OSI Model  — ⬜ Not Started
-* Packets & Frames — ⬜ Not Started
+### Module 5 — Network Fundamentals (Coming Soon) 
+* What is Networking? — ✅  
+* Intro to LAN — ✅
+* OSI Model  — ✅ 
+* Packets & Frames — 🔄 
 * Extending your Network — ⬜ Not Started
 
 ### Module 6 — How The Web Works (Coming Soon)
