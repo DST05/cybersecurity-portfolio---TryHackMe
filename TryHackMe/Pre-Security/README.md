@@ -22,17 +22,17 @@ Throughout this learning path, I will develop my understanding of:
 
 ---
 
-## Course Structure & Progress - 61% Completed
+## Course Structure & Progress - 78% Completed
 
 | Module                                  | Rooms                                                                | Status          |
 | --------------------------------------- | -------------------------------------------------------------------- | --------------- |
 | **Module 1 — Attacks and Defences**     | Offensive Security Intro, Defensive Security Intro, Careers in Cyber | ℹ️ Introduction |
 | [**Module 2 — Computer Fundamentals**](./Computer-Fundamentals/) | 5 rooms | ✅ Completed |
 | [**Module 3 — Operating Systems Basics**](./Operating-Systems-Basics/) | 5 rooms | ✅ Completed |
-| [**Module 4 — Software Basics**](./Software-Basics/) | 5 rooms | 🔄 In Progress |
+| [**Module 4 — Software Basics**](./Software-Basics/) | 5 rooms | ✅ Completed |
 | **Module 5 — Network Fundamentals**     | 5 rooms                                                              | 🔄 In Progress   |
 | **Module 6 — How The Web Works**        | 4 rooms                                                              | ✅ Completed  |
-| **Module 7 — Attacks and Defences**     | 4 rooms                                                              | ⬜ Not Started   |
+| **Module 7 — Attacks and Defences**     | 4 rooms                                                              | ✅ Completed  |
 
 ### [Module 2 — Computer Fundamentals](./Computer-Fundamentals/)
 
@@ -52,11 +52,11 @@ Throughout this learning path, I will develop my understanding of:
 
 ### [Module 4 — Software Basics](./Software-Basics/)
 
-* Data Representation — ✅  (Documentation Upcoming)
-* Data Encoding —  ✅  (Documentation Upcoming)
-* Python: Simple Demo — 🔄 
-* JavaScript: Simple Demo — ⬜ Not Started 
-* Database SQL Basics — ⬜ Not Started
+* Data Representation — ✅
+* Data Encoding —  ✅  
+* Python: Simple Demo — ✅ (Documentation Upcoming)
+* JavaScript: Simple Demo — ✅ (Documentation Upcoming)
+* Database SQL Basics — ✅ (Documentation Upcoming)
 
 
 ### Module 5 — Network Fundamentals
@@ -72,11 +72,11 @@ Throughout this learning path, I will develop my understanding of:
 * How Websites Work — ✅ 
 * Putting it all together — ✅
 
-### Module 7 — Attacks and Defences
-* The CIA Triad — ⬜ Not Started
-* Cryptography Concepts — ⬜ Not Started
-* Become a Hacker — ⬜ Not Started
-* Become a Defender — ⬜ Not Started
+### Module 7 — Attacks and Defences (Coming Soon)
+* The CIA Triad — ✅
+* Cryptography Concepts — ✅
+* Become a Hacker — ✅
+* Become a Defender — ✅
 
 ---
 
