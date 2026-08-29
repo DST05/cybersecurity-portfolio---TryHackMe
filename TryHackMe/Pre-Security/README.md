@@ -22,7 +22,7 @@ Throughout this learning path, I will develop my understanding of:
 
 ---
 
-## Course Structure & Progress - 93% Completed
+## Course Structure & Progress - 100% Completed
 
 | Module                                  | Rooms                                                                | Status          |
 | --------------------------------------- | -------------------------------------------------------------------- | --------------- |
@@ -30,7 +30,7 @@ Throughout this learning path, I will develop my understanding of:
 | [**Module 2 — Computer Fundamentals**](./Computer-Fundamentals/) | 5 rooms | ✅ Completed |
 | [**Module 3 — Operating Systems Basics**](./Operating-Systems-Basics/) | 5 rooms | ✅ Completed |
 | [**Module 4 — Software Basics**](./Software-Basics/) | 5 rooms | ✅ Completed |
-| **Module 5 — Network Fundamentals**     | 5 rooms                                                              | 🔄 In Progress   |
+| **Module 5 — Network Fundamentals**     | 5 rooms                                                              | ✅ Completed   |
 | **Module 6 — How The Web Works**        | 4 rooms                                                              | ✅ Completed  |
 | **Module 7 — Attacks and Defences**     | 4 rooms                                                              | ✅ Completed  |
 
@@ -63,8 +63,8 @@ Throughout this learning path, I will develop my understanding of:
 * What is Networking? — ✅  
 * Intro to LAN — ✅
 * OSI Model  — ✅ 
-* Packets & Frames — 🔄 
-* Extending your Network — ⬜ Not Started
+* Packets & Frames — ✅
+* Extending your Network — ✅
 
 ### Module 6 — How The Web Works (Coming Soon)
 * DNS in Detail — ✅ 
