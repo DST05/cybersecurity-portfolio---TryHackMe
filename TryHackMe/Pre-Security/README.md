@@ -22,7 +22,13 @@ Throughout this learning path, I will develop my understanding of:
 
 ---
 
-## Course Structure & Progress - 100% Completed
+## Pre-Security: - 100% Complete
+
+Total learning time: **19 hours 10 minutes**
+
+Modules completed: **7/7**
+
+Rooms completed: **32/32**
 
 | Module                                  | Rooms                                                                | Status          |
 | --------------------------------------- | -------------------------------------------------------------------- | --------------- |
