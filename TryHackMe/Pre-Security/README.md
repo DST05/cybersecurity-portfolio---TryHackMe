@@ -28,7 +28,7 @@ Total learning time: **19 hours 10 minutes**
 
 Modules completed: **7/7**
 
-Rooms completed: **32/32**
+Rooms completed: **31/31**
 
 | Module                                  | Rooms                                                                | Status          |
 | --------------------------------------- | -------------------------------------------------------------------- | --------------- |
