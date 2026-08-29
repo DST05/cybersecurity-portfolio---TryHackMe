@@ -58,25 +58,37 @@ Throughout this learning path, I will develop my understanding of:
 * JavaScript: Simple Demo — ✅ (Documentation Upcoming)
 * Database SQL Basics — ✅ (Documentation Upcoming)
 
+**Module Status:** ✅ Completed | Documentation: ⏳ Pending
 
-### Module 5 — Network Fundamentals (Coming Soon) 
-* What is Networking? — ✅  
-* Intro to LAN — ✅
-* OSI Model  — ✅ 
-* Packets & Frames — ✅
-* Extending your Network — ✅
+### Module 5 — Network Fundamentals
 
-### Module 6 — How The Web Works (Coming Soon)
-* DNS in Detail — ✅ 
-* HTTP in Detail — ✅ 
-* How Websites Work — ✅ 
-* Putting it all together — ✅
+- What is Networking? — ✅
+- Intro to LAN — ✅
+- OSI Model — ✅
+- Packets & Frames — ✅
+- Extending your Network — ✅
 
-### Module 7 — Attacks and Defences (Coming Soon)
-* The CIA Triad — ✅
-* Cryptography Concepts — ✅
-* Become a Hacker — ✅
-* Become a Defender — ✅
+**Module Status:** ✅ Completed | Documentation: ⏳ Pending
+
+
+### Module 6 — How The Web Works
+
+- DNS in Detail — ✅
+- HTTP in Detail — ✅
+- How Websites Work — ✅
+- Putting it all together — ✅
+
+**Module Status:** ✅ Completed | Documentation: ⏳ Pending
+
+
+### Module 7 — Attacks and Defences
+
+- The CIA Triad — ✅
+- Cryptography Concepts — ✅
+- Become a Hacker — ✅
+- Become a Defender — ✅
+
+**Module Status:** ✅ Completed | Documentation: ⏳ Pending
 
 ---
 
