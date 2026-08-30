@@ -22,7 +22,7 @@ Throughout this learning path, I will develop my understanding of:
 
 ---
 
-## Pre-Security: - 100% Complete
+## Pre-Security - 100% Complete
 
 Total learning time: **19 hours 10 minutes**
 
